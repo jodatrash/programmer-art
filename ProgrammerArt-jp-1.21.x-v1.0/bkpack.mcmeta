@@ -1,0 +1,49 @@
+{
+    "pack": {
+        "pack_format": 42,
+    "min_format": 42,
+    "max_format": 75,
+		"supported_formats": {"min_inclusive": 42, "max_inclusive": 75},
+        "description": "§6Programmer Art §8- §71.21.11+ \n§8by jodatrash"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 53, "max_inclusive": 75},
+				"min_format": 53,
+				"max_format": 75,
+				"directory": "culling_fix"
+			},
+			{
+				"formats": {"min_inclusive": 53, "max_inclusive": 75},
+				"min_format": 53,
+				"max_format": 75,
+				"directory": "custom_outline"
+			},
+			{
+				"formats": {"min_inclusive": 45, "max_inclusive": 420},
+				"min_format": 45,
+				"max_format": 420,
+				"directory": "item_definitions"
+			},
+			{
+				"formats": {"min_inclusive": 53, "max_inclusive": 75},
+				"min_format": 53,
+				"max_format": 75,
+				"directory": "overlay_spawn"
+			},
+			{
+				"formats": {"min_inclusive": 53, "max_inclusive": 75},
+				"min_format": 53,
+				"max_format": 75,
+				"directory": "redstone_wire"
+			},
+			{
+				"formats": {"min_inclusive": 69, "max_inclusive": 999},
+				"min_format": 69,
+				"max_format": 999,
+				"directory": "shader_fog"
+			}
+		]
+	}
+}
