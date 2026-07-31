@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/shulker/lime_shulker_box"
+    }
+  }
+}
