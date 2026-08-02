@@ -1,0 +1,87 @@
+{
+    "pack": {
+      "pack_format": 15,
+      "min_format": 15,
+      "max_format": 999,
+		  "supported_formats": {
+        "min_inclusive": 15, 
+        "max_inclusive": 999
+        },
+      "description": "§6Programmer Art §8- §71.21.11+ \n§8by jodatrash"
+    },
+    "sodium":{
+      "ignored_shaders":[
+        "fog.glsl"
+      ]
+    },
+	"overlays": {
+		"entries": [
+			{
+        "directory": "custom_outline",
+				"formats": [88,999],
+				"min_format": 88,
+				"max_format": 999
+			},
+			{
+        "directory": "custom_outline_v3",
+				"formats": [88,999],
+				"min_format": 88,
+				"max_format": 999
+			},
+			{
+        "directory": "item_definitions",
+				"formats": [45, 420],
+				"min_format": 45,
+				"max_format": 420				
+			},
+			{
+				"directory": "redstone_wire",
+				"formats": [88,999],
+				"min_format": 88,
+				"max_format": 999
+			},
+      {
+				"directory": "redstone_wire_old",
+				"formats": [88,999],
+				"min_format": 88,
+				"max_format": 999
+			},
+      {
+				"directory": "redstone_tweaks",
+				"formats": [88,999],
+				"min_format": 88,
+				"max_format": 999
+			},
+      {
+				"directory": "glass_connected",
+				"formats": [88,999],
+				"min_format": 88,
+				"max_format": 999
+			},
+      {
+				"directory": "glass_connected_var",
+				"formats": [88,999],
+				"min_format": 88,
+				"max_format": 999
+			},
+      {
+				"directory": "old_textures",
+				"formats": [88,999],
+				"min_format": 88,
+				"max_format": 999
+			},
+			{
+        "directory": "shader_fog",
+				"formats": [88,999],
+				"min_format": 88,
+				"max_format": 999
+			},
+			{
+        "directory": "patch_26_2",
+				"formats": [88,999],
+				"min_format": 88,
+				"max_format": 999
+			} 
+		]
+	}
+}

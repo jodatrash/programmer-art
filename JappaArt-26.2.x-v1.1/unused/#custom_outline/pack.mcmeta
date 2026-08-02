@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "description": [
+            {
+                "text": "Block Outline and Hitboxes\n"
+            },
+            {
+                "text": " → "
+            },
+            {
+                "text": "outlines.enchanted.games",
+                "color": "#e3647b",
+                "underlined": true
+            }
+        ],
+        "min_format": 84,
+        "max_format": 84
+    }
+}
